@@ -1,0 +1,3 @@
+IP:Bdminers.aternos.me
+Port:57354
+Name:Online
